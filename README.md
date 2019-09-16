@@ -8,7 +8,7 @@ A For [ Angular ] [ API ] :thumbsup:
 *Notice : This Project is Just for Fun,Knowledge and Non-commercial*
 
 ## Screenshots
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Uploading Soon ...
 
 ## API's Used
 
