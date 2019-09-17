@@ -5,17 +5,9 @@ Appreciate Me By Giving a Star or Like in This Repo.Also If You Have Any Awesome
 Then Let me Know. 
 Feel Free To Contact :simple_smile:
 
-> A For [ Angular ] [ API ] :thumbsup:
+> A For [ Angular ] & [ API ] :thumbsup:
 
 *Notice : This Project is Just for Fun,Knowledge and Non-commercial*
-
-## Screenshots
-<img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/hero.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/trivia.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/news.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/soundcloud.png" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/spacex.png" width="100" height="100">
-
 ## API's Used
 
 - [Soundcloud](https://developers.soundcloud.com)
@@ -24,9 +16,27 @@ Feel Free To Contact :simple_smile:
 - [News](https://newsapi.org/)
 - [JService](https://github.com/sottenad/jService)
 
+## Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/hero.png" width="560" height="350">
+<p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/trivia.png"  width="560" height="350">
+<p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/news.png"  width="560" height="350">
+<p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/soundcloud.png"  width="560" height="350">
+<p>
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/Anil-Toxy/Project-A/gh-pages/assets/project-data/spacex.png"  width="560" height="350">
+<p>
+
+
 ### Contact Me
 
-:point_right: [Instagram](https://www.instagram.com/toxy.x3/)
-:point_right: [LinkedIn](https://in.linkedin.com/in/anildas-toxy)
-:point_right: [Twitter](https://twitter.com/Toxy_xD)
+:point_right: [Instagram](https://www.instagram.com/toxy.x3/) <br/>
+:point_right: [LinkedIn](https://in.linkedin.com/in/anildas-toxy)<br/>
+:point_right: [Twitter](https://twitter.com/Toxy_xD)<br/>
 :e-mail: *toxyanil@gmail.com*
