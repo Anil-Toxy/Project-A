@@ -9,8 +9,14 @@
     "Rockets",
     "Roadstar"
   ],
-  "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/200px-SpaceX-Logo.svg.png"
-
+  "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/200px-SpaceX-Logo.svg.png",
+  "screenshots":[
+    "assets/project-data/soundcloud.png",
+    "assets/project-data/spacex.png",
+    "assets/project-data/trivia.png",
+    "assets/project-data/news.png",
+    "assets/project-data/hero.png"
+  ]
 },{
   "name":"Soundcloud",
   "genere":[
